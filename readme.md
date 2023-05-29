@@ -1,0 +1,1 @@
+This notebook uses QuTip to reproduce some results from the article [Shi, Z. et al. Fast coherent manipulation of three-electron states in a double quantum dot. Nat. Commun. 5:3020 doi: 10.1038/ncomms4020 (2014)](https://www.nature.com/articles/ncomms4020).
